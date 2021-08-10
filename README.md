@@ -1,2 +1,2 @@
 # alg-ds
-A repository for the codes for reviewing algorithm &amp; data structure
+A repository of the codes for reviewing algorithm &amp; data structure
